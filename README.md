@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/monad-developers-monad-mcp-tutorial-badge.png)](https://mseep.ai/app/monad-developers-monad-mcp-tutorial)
+
 # Monad MCP Tutorial
 
 This project demonstrates how to create a MCP server that interacts with the Monad testnet. The MCP server provides a tool for checking MON token balances on the Monad testnet.
